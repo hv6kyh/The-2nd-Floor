@@ -7,4 +7,4 @@ A horror game created using WinAPI
 
 배경음 및 효과음 재생을 위해 FMOD 라이브러리 포함 필수
 
-![1](./1.png)
+![1](./1.PNG)
